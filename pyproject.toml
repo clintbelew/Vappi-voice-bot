@@ -1,9 +1,0 @@
-[build-system]
-requires = ["setuptools>=42", "wheel"]
-build-backend = "setuptools.build_meta"
-
-[project]
-name = "vappi-voice-bot"
-version = "0.1.0"
-description = "VAPPI Voice Bot Backend"
-requires-python = ">=3.10"
